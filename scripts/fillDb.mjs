@@ -112,4 +112,4 @@ for (const pizza of data.pizzas) {
     await client.records.create('pizzas', pizza);
 }
 
-export {}
+export {} 
