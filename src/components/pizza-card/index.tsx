@@ -112,4 +112,4 @@ const PizzaCard: FC<PizzaCardProps> = ({ pizza }) => {
   );
 };
 
-export default PizzaCard;
+export default PizzaCard; 
