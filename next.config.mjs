@@ -17,4 +17,4 @@ const config = {
     domains: ["dodopizza.azureedge.net"],
   }
 };
-export default config;
+export default config; 
